@@ -1,1 +1,2 @@
 # openscale
+# nextjs-gitops
